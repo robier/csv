@@ -1,6 +1,6 @@
 # csv
 
-Simple CSV generation class that is basically wrapper for fputcsv function supports: 
+Simple CSV generation class that is basically wrapper for fputcsv function that supports: 
 
 - change of data encoding while making CSV file
 - replacing parts of data with str_replace
