@@ -6,9 +6,8 @@ Simple CSV generation class that is basically wrapper for fputcsv function that 
 - replacing parts of data with str_replace
 - easily to change data delimiter character
 - easily to change data enclosure character
-- compatible with windows excel (tested on Mac and on Windows)
 - easily setting up header row so csv will be consistent no matter of data order
-- support Microsoft Excel
+- support Microsoft Excel (tested on Mac and on Windows)
 - supports csv output in browser
 
 
